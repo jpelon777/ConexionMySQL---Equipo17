@@ -77,7 +77,7 @@ Puedes ver una muestra en funcionamiento en el siguiente enlace:
 
 ## 👤 Autor
 
-Jhonatan Poblete
-Omar Pérez 
+Jhonatan Ivan Poblete Hernandez
+Omar Konk Pérez Ramirez  
 
 ---
