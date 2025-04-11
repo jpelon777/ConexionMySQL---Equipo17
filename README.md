@@ -66,6 +66,16 @@ Al inicio de la librería se crea un objeto estático que mantiene la conexión 
 import libreriaconexion.ConexionMySQL;
 ```
 
+### Capturas del uso de nuestra libreria
+
+imagenes/imagen1.jpg
+imagenes/imagen2.jpg
+imagenes/imagen3.jpg
+imagenes/imagen4.jpg
+imagenes/imagen5.jpg
+imagenes/imagen6.jpg
+imagenes/imagen7.jpg
+
 ---
 
 ## 🎥 Video de demostración
